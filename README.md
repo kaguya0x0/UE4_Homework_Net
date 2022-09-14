@@ -12,6 +12,11 @@ UnrealEngine4.27.02
 
 初步实现网络同步创建房间，加载地图，对战倒计时功能
 
+- 演示视频（大厅部分）：
+
+  链接：https://pan.baidu.com/s/1g5j5ud3FvSJWqkUVp27heA 
+  ​	提取码：7799
+
 
 
 
